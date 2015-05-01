@@ -1,1 +1,4 @@
-# opensource-guide
+opensource-guide
+================
+
+![](guide.jpg)
